@@ -5,6 +5,13 @@ A curated list of free AI-powered tools for everyday work. No credit card requir
 
 ## 🛠 Tools
 
+
+### [Tudo](https://blynkai.app/tudo/)
+AI task manager for iPhone that turns voice notes, screenshots, and text into organized tasks and plans.
+
+### [Telo](https://blynkai.app/telo/)
+AI wellness companion for iPhone that reflects on Apple Health context, readiness, recovery, and sleep patterns.
+
 ### [AI Resume Optimizer](https://aifreeaistack.com/tools/ai-resume-optimizer.html)
 Tailor your resume for any job description. AI rewrites your experience, skills, and summary to pass ATS systems. Supports 46+ job roles.
 
